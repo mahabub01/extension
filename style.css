@@ -1,0 +1,15 @@
+
+.extension-container{
+	width: 200px;
+	min-height: 300px;
+	font-size: 13px;
+	color:green;
+}
+
+h1{
+	font-size: 14px;
+	color:red;
+	font-family: verdana;
+	text-align: center;
+	padding: 10px;
+}
