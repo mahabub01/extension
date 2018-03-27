@@ -18,9 +18,17 @@
 
 	"options_page":"options.html",
 
+
+	"background":{
+		"scripts": ["eventScript.js"],
+		"persistent":false
+
+	},
+
 	"permissions":[
 	"http://*/*",
 	"https://*/*",
-	"notifications"
+	"notifications",
+	"contextMenus"
 	]
 }
