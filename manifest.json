@@ -21,7 +21,7 @@
 
 	"background":{
 		"scripts": ["eventScript.js"],
-		"persistent":false
+		"persistent": false
 
 	},
 
@@ -29,6 +29,7 @@
 	"http://*/*",
 	"https://*/*",
 	"notifications",
-	"contextMenus"
+	"contextMenus",
+	"storage"
 	]
 }
